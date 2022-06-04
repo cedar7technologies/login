@@ -1,0 +1,171 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+  <title>Untitled</title>
+  <link rel="stylesheet" href="home.css" />
+</head>
+<style>
+              .head_a{
+
+                      width:180px;
+                      text-align:left;
+                      font-size:18px;
+                      margin-bottom:25px;
+
+              }
+
+              .main{
+                      width:100px;
+                      height:40px;
+                      font-size:30px;
+                      margin-bottom:10px;
+                      font-weight:bold;
+
+
+              }
+
+                .info_input{
+                    margin-bottom:15px;
+                    text-align:left;
+                }
+
+               .bot{
+                    margin-bottom:15px;
+                      float:left;
+               }
+
+               .parent_log{
+
+
+                   margin:0px;
+                   text-align:center;
+                   border: 1px solid;
+
+
+
+
+               }
+
+               .content{
+                  display:inline-block;
+                  padding:20px;
+                  padding-bottom:0px;
+
+
+               }
+
+               .pic{
+                 text-align:center;
+               }
+
+               .foot_txt{
+
+
+
+               }
+
+               .foot{
+                   width:100%;
+
+
+               }
+
+
+
+               .log{
+
+                   text-align:center;
+
+
+               }
+
+               .gif{
+                    height:100px;
+                    width:100px;
+               }
+
+                .container{
+
+                    width:410px;
+                    margin-right:auto;
+                    margin-left:auto;
+                }
+
+               .new{
+                  text-align:left;
+                  padding-top:15px;
+                  padding-bottom:15px;
+
+               }
+
+
+</style>
+
+
+<body>
+            <div class="log">
+                   <div class="pic">
+            <img class="gif" src="../M-XY/c7-site/images/logo.jpg">
+        </div>
+
+
+
+        <div class="container">
+
+                <div class="parent_log">
+                    <div class="content">
+
+                          <div class="main">
+                            LOGIN
+                        </div>
+                       <div class="head_a">
+                           Phone number or email?
+                       </div>
+                       <div class="info_input">
+                           <input class="input_field" type="" />
+                       </div>
+                       <div class="bot">
+                            <button class="green_button">Login</button>
+                       </div>
+
+
+                               <div class="head_a">
+                            Forget password ?
+                       </div>
+
+                       <div class="head_a">
+                           Sign up ?
+
+
+                       </div>
+       </div>
+
+   </div>
+
+
+               <div class="new">
+                New to our portel ?
+             </div>
+
+
+
+       <div class="foot_txt">
+
+              <button class="green_button foot">creat your new account</button>
+       </div>
+
+        </div>
+
+            </div>
+
+
+
+
+
+
+
+</body>
+
+</html>

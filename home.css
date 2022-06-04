@@ -1,0 +1,29 @@
+
+         .green_button{
+                min-height:40px;
+                min-width:200px;
+                background-color:#277939;
+                color:white;
+                font-size: 15px;
+                border:none;
+                padding:20px;
+         }
+
+          .green_button:hover{
+              background-color:#2C7A1A;
+              color:#C9C9C9;
+
+          }
+
+          .input_field{
+               min-height:45px;
+               min-width:250px;
+               border-width:1.5px;
+               padding-left:15px;
+               padding-right:15px;
+               font-size:15px;
+          }
+
+          .input_field:focus{
+              outline:none;
+          }
